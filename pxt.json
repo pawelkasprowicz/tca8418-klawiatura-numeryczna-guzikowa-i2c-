@@ -1,5 +1,5 @@
 {
-    "name": "tca8418 klawiatura numeryczna guzikowa  i2c ",
+    "name": "pxt-tca8418-keypad",
     "description": "",
     "dependencies": {
         "core": "*",
